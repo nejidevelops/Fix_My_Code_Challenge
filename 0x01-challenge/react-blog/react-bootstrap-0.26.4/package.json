@@ -116,7 +116,7 @@
     "dom-helpers": "^2.2.4",
     "keycode": "^2.0.0",
     "lodash-compat": "^3.10.1",
-    "react-overlays": "^0.4.4",
+    "react-overlays": "^0.9.3",
     "react-prop-types": "^0.3.0",
     "uncontrollable": "^3.1.1"
   },
