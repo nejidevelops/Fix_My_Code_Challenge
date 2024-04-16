@@ -15,7 +15,7 @@
     "jade": "^1.9.2",
     "marked": "^0.8.2",
     "moment": "^2.10.2",
-    "react": "^0.13.1",
+    "react": "^0.14.10",
     "react-bootstrap": "^0.26.2",
     "react-ga": "^2.1.2",
     "react-router": "^0.13.2",
